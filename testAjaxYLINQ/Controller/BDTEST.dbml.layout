@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BDTEST">
+  <DataContextMoniker Name="/BDTESTDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c4f9c97a-6376-43d1-a440-dfe690a9ec5f" absoluteBounds="4.5, 1, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/BDTESTDataContext/Sexo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="052a7554-ec1d-43c7-8578-e256dbe2018f" absoluteBounds="4.515, 1.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
